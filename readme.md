@@ -1,3 +1,5 @@
+**ARCHIVED: Hi all. Sorry, I don't maintain this code anymore and I haven't used it in years.**
+
 *This repository was forked from [sourceforge.net/p/blw](http://sourceforge.net/p/blw/) and the readme below was copied from [blw.sourceforge.net](http://blw.sourceforge.net/)*
 
 # BindingListView
