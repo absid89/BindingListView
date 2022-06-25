@@ -1,7 +1,3 @@
-**ARCHIVED: Hi all. Sorry, I don't maintain this code anymore and I haven't used it in years.**
-
-*This repository was forked from [sourceforge.net/p/blw](http://sourceforge.net/p/blw/) and the readme below was copied from [blw.sourceforge.net](http://blw.sourceforge.net/)*
-
 # BindingListView
 
 ## Introduction
@@ -11,23 +7,6 @@ The BindingListView .NET library provides a type-safe, sortable, filterable,
   equivalent of using a DataView on a DataTable in ADO.NET. If you have a list of objects
   to display on a Windows Forms UI (e.g. in a DataGridView) and want to allow your user
   to sort and filter, then this is the library to use!
-
-For a demo of what the library can do, [watch](demo.html) the screen
-  cast.
-
-For those who like to dive straight into the code, the source is available from the
-  [SubVersion repository](https://svn.sourceforge.net/svnroot/blw/trunk/) or
-  ZIPed as a [release](http://sourceforge.net/project/showfiles.php?group_id=172734&package_id=197723).
-  The source contains a few example projects demonstrating what the library can do.
-
-  If you just want to use the library download the [compiled
-  DLL](http://sourceforge.net/project/showfiles.php?group_id=172734&package_id=197723).
-
-  Check out the SourceForge [project page](http://www.sf.net/projects/blw) for
-  forums, help, etc.
-
-The library makes use of generics and so only works with the .NET 2.0 runtime. It
-  should work with any .NET language: C#, VB.NET, etc.
 
 ## Quick-start Guide
 
