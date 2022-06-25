@@ -92,7 +92,3 @@ BindingSource.Current is typed as just Object, so the invalid cast to Customer c
 ## NuGet
 
 <pre>Install-Package Equin.ApplicationFramework.BindingListView</pre>
-
-Copyright &copy; Andrew Davey 2006
-
-Check my [blog](http://blogs.warwick.ac.uk/andrewdavey) for news and updates.
